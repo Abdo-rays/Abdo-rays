@@ -59,12 +59,13 @@
 |---|---|---|
 | 🐾 **Animals Adoption API** | Backend API with Redis caching (40% faster response), JWT auth, nested comments & reporting | Node.js, Express, MongoDB, Redis |
 | 💊 **MedEX** | Pharmacy locator with smart medicine search, geolocation, and real-time chat | Full Stack, Socket.io |
+|     **Rento** | Rent car and sale care , payments (Stripe), real-time chat & AI features | Full Stack, Stripe, Socket.io |
 | 🎓 **Mentor Hub** | Mentoring platform with booking, payments (Stripe), real-time video & AI features — Grade A+ | Full Stack, Stripe, Socket.io |
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdo-rays&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://portfolio-12k8.vercel.app/" alt="Profile views"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
