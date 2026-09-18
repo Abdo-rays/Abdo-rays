@@ -65,7 +65,11 @@
 ---
 
 <p align="center">
-  <a src="https://portfolio-12k8.vercel.app/" alt="Profile views"/>
+  <a href="https://portfolio-12k8.vercel.app/" target="_blank">
+    <img
+      src="https://komarev.com/ghpvc/?username=Abdo-rays&style=for-the-badge&color=blue"
+      alt="Profile views"
+    />
+  </a>
 </p>
-
 <p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
