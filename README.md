@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://portfolio-12k8.vercel.app/" alt="Profile views"/>
+  <a src="https://portfolio-12k8.vercel.app/" alt="Profile views"/>
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
